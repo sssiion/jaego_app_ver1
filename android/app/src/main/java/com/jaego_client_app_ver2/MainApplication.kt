@@ -1,4 +1,4 @@
-package com.jaego_client_appver
+package com.jaego_client_app_ver2
 
 import android.app.Application
 import com.facebook.react.PackageList

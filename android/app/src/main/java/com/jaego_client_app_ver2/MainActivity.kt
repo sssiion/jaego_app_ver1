@@ -1,4 +1,4 @@
-package com.jaego_client_appver
+package com.jaego_client_app_ver2
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
@@ -11,7 +11,7 @@ class MainActivity : ReactActivity() {
    * Returns the name of the main component registered from JavaScript. This is used to schedule
    * rendering of the component.
    */
-  override fun getMainComponentName(): String = "jaego_client_appver"
+  override fun getMainComponentName(): String = "jaego_client_app_ver2"
 
   /**
    * Returns the instance of the [ReactActivityDelegate]. We use [DefaultReactActivityDelegate]
